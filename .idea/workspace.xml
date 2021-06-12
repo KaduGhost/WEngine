@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cba38c65-3c19-4dbf-87d9-630655f04ea6" name="Default Changelist" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_17_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_md_5_bungeecord_chat_1_8_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_avaje_ebean_2_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_spigotmc_spigot_api_1_8_8_R0_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/WEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/apis/MensagensAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/apis/VanishAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/bungee/WalkerBungee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/comandos/ComandoBroadcast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/comandos/ComandoCash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/comandos/ComandoCmdBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/comandos/ComandoCrashar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/comandos/ComandoDarVip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/comandos/ComandoDivulgar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/comandos/ComandoExecutarSom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/comandos/ComandoGrupo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/comandos/ComandoHat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/comandos/ComandoLimparChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/comandos/ComandoManutencao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/comandos/ComandoMatar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/comandos/ComandoPunir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/comandos/ComandoR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/comandos/ComandoReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/comandos/ComandoReports.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/comandos/ComandoSetVip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/comandos/ComandoSkull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/comandos/ComandoSpeed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/comandos/ComandoStaff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/comandos/ComandoSudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/comandos/ComandoTell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/comandos/ComandoTimeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/comandos/ComandoTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/comandos/ComandoVIPs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/comandos/ComandoVanish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/comandos/ComandoVoar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/conexao/Conexao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/conexao/ConexaoAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/conexao/ConexaoGrupoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/conexao/ConexaoManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/conexao/ConexaoPunicoesDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/conexao/ConexaoReportDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/conexao/ConexaoServerAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/conexao/ConexaoServersDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/conexao/ConexaoStaffDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/conexao/ConexaoType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/conexao/ConexaoUsuarioDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/conexao/ConexaoVIPDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/configuracao/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/configuracao/ConfigChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/configuracao/ConfigComando.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/configuracao/ConfigManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/configuracao/Configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/eventos/TabTitleSendEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/eventos/TitleSendEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/eventos/UsuarioAlteradoStaffEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/eventos/UsuarioEntrouStaffEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/eventos/UsuarioRemovidoStaffEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/listeners/ComandosListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/listeners/PunicoesListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/listeners/ReportsListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/listeners/UsuarioListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/listeners/VIPsListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/reflections/ActionBarAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/reflections/CrashAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/reflections/ItemAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/reflections/OfflinePlayerAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/reflections/ReflectionsAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/reflections/SkullAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/reflections/TablistAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/chat/Canal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/chat/CanalTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/chat/ChatManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/chat/ChatPermanente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/chat/ChatProtecao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/chat/ChatTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/chat/ChatUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/comando/ComandoInfos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/comando/ComandosManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/comando/PermissionComandoType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/comando/inventario/InventarioComandosType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/comando/inventario/InventarioConfiguracao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/comando/inventario/InventarioListaBloqueados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/comando/inventario/InventarioListaComandos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/comando/inventario/InventarioListaPermitidos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/comando/inventario/InventarioMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/economia/EconomiaManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/economia/EconomiaType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/grupo/Grupo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/grupo/GrupoManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/grupo/GrupoType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/manutencao/Manutencao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/manutencao/ManutencaoManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/manutencao/ManutencaoType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/manutencao/ProcessoManutencao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/manutencao/ProcessoStop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/placeholder/PlaceHookWalkers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/placeholder/PlaceholderAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/placeholder/PlaceholderHook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/punicoes/Punicao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/punicoes/PunicaoMotivoType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/punicoes/PunicoesManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/punicoes/PunicoesType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/punicoes/eventos/JogadorDespunidoEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/punicoes/eventos/JogadorPunidoEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/punicoes/inventarios/InventarioDespunir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/punicoes/inventarios/InventarioPunicoesType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/punicoes/inventarios/InventarioPunir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/punicoes/inventarios/InventarioPunirAvaliados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/punicoes/inventarios/InventarioPunirHBanidos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/punicoes/inventarios/InventarioPunirHKicks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/punicoes/inventarios/InventarioPunirHMutes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/punicoes/inventarios/InventarioPunirLBanidos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/punicoes/inventarios/InventarioPunirLMutes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/punicoes/inventarios/InventarioPunirMBanidos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/punicoes/inventarios/InventarioPunirMMutes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/punicoes/inventarios/InventarioPunirMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/reports/Report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/reports/ReportManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/reports/ReportMotivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/reports/ReportMotivoType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/reports/ReportPerfil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/reports/eventos/ReportCreateEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/reports/inventarios/InventarioReportAtivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/reports/inventarios/InventarioReportAvaliacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/reports/inventarios/InventarioReportAvaliacoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/reports/inventarios/InventarioReportMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/reports/inventarios/InventarioReportPerfil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/reports/inventarios/InventarioReportType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/server/ServerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/server/Servers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/staff/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/staff/StaffManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/tag/Tag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/usuario/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/usuario/UsuarioManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/vanish/VanishControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/vanish/VanishManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/vanish/evento/JogadorAtivouVanish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/vanish/evento/JogadorDesativouVanish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/vanish/evento/JogadorEntrouVanishado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/vanish/evento/JogadorSaiuVanishado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/vip/VIP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/vip/VIPManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/vip/inventario/InventarioVIPEscolherServidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/vip/inventario/InventarioVIPMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/vip/inventario/InventarioVIPsByUsuarioLista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/vip/inventario/InventarioVIPsHistorico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/vip/inventario/InventarioVIPsLista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/vip/inventario/InventarioVipsType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/voar/VoarControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/sistema/voar/VoarManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/utils/EsconderStringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/utils/ItemBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/utils/ReflectionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/utils/TimeFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/utils/Title.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/utils/TitleAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/utils/WalkersUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/utils/serializer/Serializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/redewalker/engine/utils/serializer/SerializerOld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/net/fabiozumbi12/MinEmojis/Fanciful/FancyMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/net/fabiozumbi12/MinEmojis/Fanciful/JsonRepresentedObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/net/fabiozumbi12/MinEmojis/Fanciful/JsonString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/net/fabiozumbi12/MinEmojis/Fanciful/MessagePart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/net/fabiozumbi12/MinEmojis/Fanciful/TextualComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/net/fabiozumbi12/MinEmojis/Fanciful/util/ArrayWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/net/fabiozumbi12/MinEmojis/Fanciful/util/Reflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/net/fabiozumbi12/MinEmojis/MEConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/net/fabiozumbi12/MinEmojis/MEListener188.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/net/fabiozumbi12/MinEmojis/MEListenerRPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/net/fabiozumbi12/MinEmojis/MELogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/net/fabiozumbi12/MinEmojis/MEYaml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/net/fabiozumbi12/MinEmojis/MinEmojis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEngine.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1tp9P5CHVQ94DoYmcR1mlo3l59P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="D:/Arquivos/Plugins/WalkersUtils/ResourcePackAPI_v2.2.1.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kadue\IdeaProjects\WEngine\src\main\java" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cba38c65-3c19-4dbf-87d9-630655f04ea6" name="Default Changelist" comment="" />
+      <created>1623455140264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623455140264</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1623455428630</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623455428630</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+</project>
